@@ -1,6 +1,6 @@
 # Improving-Snake
 
-##Intro for my portfolio
+Intro for my portfolio
 
 This was my final project for my software design class, where we added functionality to an open source version of the game Snake. It was a group project with me and 4 other team members.
 
